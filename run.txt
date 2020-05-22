@@ -1,0 +1,14 @@
+
+# To run each file, run command one by one in terminal
+
+# Run this for model training
+python train.py --dataset dataset
+
+# Run this to detect mask on images
+python test_image.py --image examples/example_01.png
+
+# Run this to detect mask in real time
+python test_video.py
+
+# Convert notebook into HTML
+jupyter nbconvert slides_workshop.ipynb --to slides --post serve
