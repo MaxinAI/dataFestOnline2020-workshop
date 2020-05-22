@@ -33,4 +33,4 @@ Run mask detection code: `` python test_video.py``
 
 # Credits
 
-Face mask detection and model training code is taken from nice [tutorial](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/).
+Face mask detection and model training code is taken from this nice [tutorial](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/).
